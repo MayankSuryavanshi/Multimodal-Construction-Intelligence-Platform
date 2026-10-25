@@ -166,7 +166,7 @@ Rates are indicative benchmarks defined in `STRUCTURE_TYPES` and `TIER_FACTORS` 
 
 ## 👤 Author
 
-**Mohammad Anas Chhipa**  
+**Mayank Suryavanshi**  
 *Skill Wallet Capstone Project 1*
 
 ## 📄 License
